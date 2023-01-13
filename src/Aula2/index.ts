@@ -1,6 +1,6 @@
 // /* eslint desable */
 // Tipo Any
-function showAny(msg: any) {
+function showAny(msg: string) {
   return msg;
 }
 

@@ -3,4 +3,8 @@ Esse é um repositório de estudo de Typescript e Jest do curso do Luiz Otávio 
 Conteúdos:
 
 - Type annotation;
+- Any;
+- Tipo Void;
+- Tipo Object;
+- Tipo Array;
 -
