@@ -7,4 +7,8 @@ Conteúdos:
 - Tipo Void;
 - Tipo Object;
 - Tipo Array;
--
+- Tipo undefined e null;
+- Tipo tupla;
+- Tipo ENUM;
+- Tipo Never;
+
